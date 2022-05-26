@@ -1,10 +1,9 @@
 ---
-title: 'Hello World'
-date: 2021-11-01
-lastmod: 2021-12-12
+title: 'Test Post'
+date: 2022-26-05
+lastmod: 2022-26-05
 tags:
-  - 'Hello World'
-  - 'Urara'
+  - 'Test'
 cover: '/test-post/cover.jpg'
 ---
-Welcome lol
+Hi friend, lol, nice to see you here. This is the first post of this blog. Please `bookmark` this blog link if you really want some awesome writings on different topics.
