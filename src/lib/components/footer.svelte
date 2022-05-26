@@ -34,7 +34,7 @@
         target="_blank"
         class="tooltip tooltip-secondary hover:text-secondary"
         data-tip="🌸 [γ] - Based on MDsveX & SvelteKit 🌸"
-        href="https://github.com/importantimport/urara">
+        href="https://github.com/sveltejs/kit">
         Urara
       </a>
       {#if footerConfig.html}
