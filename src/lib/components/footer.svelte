@@ -28,7 +28,7 @@
         : new Date().toJSON().substring(0, 4)}
       {site.author.name}
       <br />
-      Made with ❤️ and
+      Made with ❤️Urara❤️ and
       <a
         rel="noopener external"
         target="_blank"
