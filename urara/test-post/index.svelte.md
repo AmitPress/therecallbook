@@ -1,7 +1,7 @@
 ---
 title: 'Test Post'
-date: 2022-26-05
-lastmod: 2022-26-05
+date: 2022-05-26
+lastmod: 2022-05-26
 tags:
   - 'Test'
 cover: '/test-post/cover.jpg'

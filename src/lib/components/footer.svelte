@@ -28,14 +28,14 @@
         : new Date().toJSON().substring(0, 4)}
       {site.author.name}
       <br />
-      Powered by
+      Made with ❤️ and
       <a
         rel="noopener external"
         target="_blank"
         class="tooltip tooltip-secondary hover:text-secondary"
-        data-tip="🌸 [γ] - Based on MDsveX & SvelteKit 🌸"
+        data-tip="🌸 [γ] - Based on Svelte 🌸"
         href="https://github.com/sveltejs/kit">
-        Urara
+        Svelte
       </a>
       {#if footerConfig.html}
         <br />
