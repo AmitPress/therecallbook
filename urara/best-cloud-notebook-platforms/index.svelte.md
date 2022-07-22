@@ -1,7 +1,7 @@
 ---
 title: 'Best cloud notebooks for python'
-date: 2022-07-21
-lastmod: 2022-07-21
+date: 2022-05-26
+lastmod: 2022-05-26
 tags:
   - ['Cloud']
 cover: '/best-cloud-notebook-platforms/cover.jpg'
