@@ -1,4 +1,21 @@
+---
+title: 'Cross Platform GCC or C/C++ APP development'
+date: 2022-06-21
+lastmod: 2022-06-21
+tags:
+    - ['bengali']
+---
 #### Contents
+[Contents](#Contents)
+    - [C/C++ backends](#C/C++-backends)
+        - [Variants of GCC](#Variants-of-GCC)
+    - [Making a cross platform GCC app](#Making-a-cross-platform-GCC-app)
+    - [How is it possible](#How-is-it-possible)
+        - [Using Meta Programming](#Using-Meta-Programming)
+        - [Using special gcc implementation](#Using-special-gcc-implementation)
+            - [Msys2 vs Cygwin](#Msys2-vs-Cygwin)
+    - [Conclusion](#Conclusion)
+
 
 #### C/C++ backends
 সি বা সি++ এর জন্য অনেক গুলি ব্যাকইন্ড আছে যেমন gcc, clang, tcc etc.
