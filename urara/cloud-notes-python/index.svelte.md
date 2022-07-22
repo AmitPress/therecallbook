@@ -4,16 +4,15 @@ date: 2022-05-26
 lastmod: 2022-05-26
 tags:
   - ['Cloud']
-cover: '/cloud-notes-python/cover-img.jpg'
 ---
 
 ## Contents
 - [Contents](#contents)
-- [Introduction](#Introduction)
-- [Need of a Notebook file](#Need-of-a-Notebook-file)
-    - [Cloud platforms considerations (2022)](#Cloud-platforms-considerations-2022)
-        - [Comparative Data](#Comparative-Data)
-- [Conclusion](#Conclusion)
+    - [Introduction](#Introduction)
+    - [Need of a Notebook file](#Need-of-a-Notebook-file)
+        - [Cloud platforms considerations (2022)](#Cloud-platforms-considerations-2022)
+            - [Comparative Data](#Comparative-Data)
+    - [Conclusion](#Conclusion)
 
 
 #### Introduction
