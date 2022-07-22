@@ -10,7 +10,7 @@ export const site: SiteConfig = {
   author: {
     name: 'Amit Malaker',
     photo: '/assets/maskable@192.png',
-    status: '❤️',
+    status: '🔥',
     bio: 'Student | Crepuscular | SCP enthusiast'
   },
   themeColor: '#3D4451'

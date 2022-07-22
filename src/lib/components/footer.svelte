@@ -28,13 +28,13 @@
         : new Date().toJSON().substring(0, 4)}
       {site.author.name}
       <br />
-      Made with ❤️Urara❤️ and
+      Made with ❤️ and
       <a
         rel="noopener external"
         target="_blank"
         class="tooltip tooltip-secondary hover:text-secondary"
-        data-tip="🌸 [γ] - Based on Svelte 🌸"
-        href="https://github.com/sveltejs/kit">
+        data-tip="🌸 Urara 🌸"
+        href="#">
         Svelte
       </a>
       {#if footerConfig.html}
