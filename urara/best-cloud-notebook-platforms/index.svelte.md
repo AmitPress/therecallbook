@@ -3,7 +3,7 @@ title: 'Best cloud notebooks for python'
 date: 2022-07-21
 lastmod: 2022-07-21
 tags:
-  - ['Cloud', 'Notebook']
+  - ['Cloud']
 ---
 
 ## Contents
