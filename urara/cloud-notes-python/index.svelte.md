@@ -4,7 +4,7 @@ date: 2022-05-26
 lastmod: 2022-05-26
 tags:
   - ['Cloud']
-cover: '/best-cloud-notebook-platforms/cover.jpg'
+cover: '/cloud-notes-python/cover-img.jpg'
 ---
 
 ## Contents
