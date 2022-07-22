@@ -6,8 +6,8 @@ tags:
   - ['Cloud']
 ---
 
-## Contents
-- [Contents](#contents)
+#### Contents
+- [Contents](#Contents)
     - [Introduction](#Introduction)
     - [Need of a Notebook file](#Need-of-a-Notebook-file)
         - [Cloud platforms considerations (2022)](#Cloud-platforms-considerations-2022)
